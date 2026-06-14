@@ -1,0 +1,24 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Machine learning
+scikit-learn>=1.3
+shap>=0.42
+
+# Geospatial
+geopandas>=0.13
+shapely>=2.0
+pyproj>=3.5
+
+# Visualisation
+matplotlib>=3.7
+seaborn>=0.12
+
+# Excel file reading
+openpyxl>=3.1
+
+# Jupyter
+notebook>=7.0
+ipykernel>=6.0
