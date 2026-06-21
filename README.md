@@ -1,7 +1,7 @@
 # GeoAI-Based Spatial Prediction of Airborne Pollen and Fungal Spore Concentrations
 ### NUST H-12 Campus, Islamabad, Pakistan — April 2016
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/notebooks/01_data_preparation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/01_data_preparation.ipynb)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
@@ -101,12 +101,12 @@ Click any badge below to open directly in Colab:
 
 | Notebook | Description | Open |
 |----------|-------------|------|
-| 01 Data Preparation | Load data, volume formula, LULC features | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/notebooks/01_data_preparation.ipynb) |
-| 02 Pearson Correlation | Heatmap + time series | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/notebooks/02_pearson_correlation_timeseries.ipynb) |
-| 03 Random Forest | LOO-CV, MDI, Permutation importance | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/notebooks/03_random_forest_permutation_importance.ipynb) |
-| 04 SHAP Analysis | Directional feature effects | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/notebooks/04_shap_analysis.ipynb) |
-| 05 LULC Spatial | Spearman ρ with p-values | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/notebooks/05_lulc_spatial_analysis.ipynb) |
-| 06 Height Gradient | Power-law decay, Cohen's d | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/notebooks/06_height_gradient_analysis.ipynb) |
+| 01 Data Preparation | Load data, volume formula, LULC features | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/01_data_preparation.ipynb) |
+| 02 Pearson Correlation | Heatmap + time series | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/02_pearson_correlation_timeseries.ipynb) |
+| 03 Random Forest | LOO-CV, MDI, Permutation importance | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/03_random_forest_permutation_importance.ipynb) |
+| 04 SHAP Analysis | Directional feature effects | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/04_shap_analysis.ipynb) |
+| 05 LULC Spatial | Spearman ρ with p-values | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/05_lulc_spatial_analysis.ipynb) |
+| 06 Height Gradient | Power-law decay, Cohen's d | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/06_height_gradient_analysis.ipynb) |
 
 **On Colab, run these two cells first in every notebook:**
 ```python
