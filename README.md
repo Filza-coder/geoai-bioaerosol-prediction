@@ -1,4 +1,4 @@
-# GeoAI-Based Spatial Prediction of Airborne Pollen and Fungal Spore Concentrations
+# GIS-Integrated Analysis of Spatial and Vertical Variability in Airborne Pollen and Fungal Spore Concentrations Across an Urban Campus 
 ### NUST H-12 Campus, Islamabad, Pakistan — April 2016
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Filza-coder/geoai-bioaerosol-prediction/blob/main/01_data_preparation.ipynb)
